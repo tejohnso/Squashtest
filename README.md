@@ -1,4 +1,4 @@
 Squashtest
 ==========
 
-Will squash before merge into master
+Will squash before merge into master.
